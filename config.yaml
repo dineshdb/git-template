@@ -1,4 +1,4 @@
 finally:
 - title: enable delta pager for git
   if: which delta
-  then: mv ~/.config/gitconfig.d/_profb_delta.conf ~/.config/gitconfig.d/profb_delta.conf
+  then: mv ~/.config/gitconfig.d/_gt_delta.conf ~/.config/gitconfig.d/gt_delta.conf
